@@ -67,5 +67,5 @@ void sendTelegramMessage() {
   } else {
     Serial.println("WiFi Disconnected");
     
-  }//dsfdfdfdffd
+  }//5555555555555555555555555555sdsd
 }
